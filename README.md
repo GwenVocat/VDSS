@@ -302,6 +302,7 @@ DEBUG_OSM = False     # OSM-Daten-Abruf
 
 ## Beitrag zur Entwicklung
 - **Manuel Weilenmann** : Entwicklung und Design
+- **Gwendoline Vocat** : Entwicklung und Design
 
 ### Code-Standards
 - **Deutsch**: Kommentare und Dokumentation
